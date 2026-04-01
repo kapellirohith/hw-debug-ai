@@ -1,0 +1,208 @@
+[0h00m] ============================================================
+[0h00m] ROHITH'S CODE DOWNLOAD — 1.8TB
+[0h00m] Target: /Users/rohithkapelli/Library/CloudStorage/GoogleDrive-krohithsai99@gmail.com/My Drive/llm-data/code
+[0h00m] Go to class. Come back to all the code in the world.
+[0h00m] ============================================================
+[0h00m] 
+💻 PHASE 1: The Stack — All Languages
+[0h00m] ----------------------------------------
+[0h00m] ⬇️  The Stack — c...
+`trust_remote_code` is not supported anymore.
+Please check that the Hugging Face dataset 'bigcode/the-stack-dedup' isn't based on a loading script and remove `trust_remote_code`.
+If the dataset is based on a loading script, please ask the dataset author to remove it and convert it to a standard format like Parquet.
+[0h04m]   c: 200,000 files — 0.99 GB (total: 1.0 GB)
+[0h08m]   c: 400,000 files — 1.97 GB (total: 2.0 GB)
+[0h12m]   c: 600,000 files — 2.95 GB (total: 3.0 GB)
+[0h18m]   c: 800,000 files — 3.92 GB (total: 3.9 GB)
+[0h24m]   c: 1,000,000 files — 4.91 GB (total: 4.9 GB)
+[0h29m]   c: 1,200,000 files — 5.89 GB (total: 5.9 GB)
+[0h33m]   c: 1,400,000 files — 6.88 GB (total: 6.9 GB)
+[0h36m]   c: 1,600,000 files — 7.85 GB (total: 7.8 GB)
+[0h40m]   c: 1,800,000 files — 8.82 GB (total: 8.8 GB)
+[0h45m]   c: 2,000,000 files — 9.82 GB (total: 9.8 GB)
+[0h54m]   c: 2,200,000 files — 10.80 GB (total: 10.8 GB)
+[1h11m]   c: 2,400,000 files — 11.77 GB (total: 11.8 GB)
+[1h22m]   c: 2,600,000 files — 12.75 GB (total: 12.7 GB)
+[1h27m]   c: 2,800,000 files — 13.73 GB (total: 13.7 GB)
+'The read operation timed out' thrown while requesting GET https://huggingface.co/datasets/bigcode/the-stack-dedup/resolve/17cad72c886a2858e08d4c349a00d6466f54df63'The read operation timed out' thrown while requesting GET https[1h30m]   c: 3,000,000 files — 14.71 GB (total: 14.7 GB)
+[1h33m]   c: 3,200,000 files — 15.68 GB (total: 15.7 GB)
+[1h39m]   c: 3,400,000 files — 16.66 GB (total: 16.7 GB)
+[1h44m]   c[2h45m] ✅ reverse_eng_x64.jsonl: 458,254 rows — 49869.0 MB
+[2h45m] ⬇️  atul10/reverse_engineering_code_dataset_O2_arm_O2...
+[3h25m] ✅ reverse_eng_arm.jsonl: 86,244 rows — 11983.7 MB
+[3h25m] ⬇️  atul10/reverse_engineering_code_dataset_O2_mips_O2...
+[4h20m] ✅ reverse_eng_mips.jsonl: 81,213 rows — 32337.4 MB
+[4h20m] ⬇️  bshada/reverseengineering.stackexchange.com...
+[4h20m] ✅ reverse_eng_se.jsonl: 4,069 rows — 12.2 MB
+[4h20m] ⬇️  g4lihru/arduino-dataset...
+Repo card metadata block was not found. Setting CardData to empty.
+[4h20m] ❌ g4lihru/arduino-dataset: Expected object or value
+Repo card metadata block was not found. Setting CardData to empty.
+[4h20m] ❌ Skip g4lihru/arduino-dataset: Expected object or value
+[4h20m] ⬇️  CJJones/Multiturn_Microcontroller-Arduino-LLM-Training...
+[4h20m] ✅ microcontroller_train.jsonl: 139,999 rows — 7.3 MB
+[4h20m] ⬇️  suneeldk/arduino-code-dataset...
+[4h20m] ✅ arduino_code.jsonl: 20 rows — 0.0 MB
+[4h20m] ⬇️  gavmac00/arduino-docs...
+[4h20m] ✅ arduino_docs.jsonl: 14,319 rows — 10.1 MB
+[4h20m] ⬇️  bshada/arduino.stackexchange.com...
+[4h21m] ✅ arduino_se.jsonl: 10,579 rows — 32.2 MB
+[4h21m] ⬇️  ewedubs/linux-kernel-commits-aireason-instruct...
+[4h24m] ❌ ewedubs/linux-kernel-commits-aireason-instruct: Couldn't cast
+instruction: string
+input: string
+output: string
+commit_hash: string
+quality_score: do
+Generating train split: 0 examples [00:00, ? examples/s]Generating train split: 12086 examples [00:00, 97884.56 examples/s]Generating train split: 24325 examples [00:00, 98193.44 examples/s]Generating train split: 36627 examples [00:00, 98217.32 examples/s]Generating train split: 50525 examples [00:00, 100443.30 examples/s]Generating train split: 61132 examples [00:00, 100788.67 examples/s]Generating train split: 72506 examples [00:00, 102808.17 examples/s]Generating train split: 89544 examples [00:00, 99635.53 examples/s] Generating train split: 104243 examples [00:01, 100144.90 examples/s]Generating train split: 106727 examples [00:01, 98318.78 examples/s] 
+[4h25m] ❌ Skip ewedubs/linux-kernel-commits-aireason-instruct: An error occurred while generating the dataset
+[4h25m] ⬇️  fenar/iot-security...
+[4h25m] ✅ iot_security.jsonl: 134,397 rows — 36.0 MB
+[4h25m] ⬇️  sjhhg/fpga_verilog...
+[4h25m] ✅ fpga_verilog.jsonl: 2,642 rows — 3.3 MB
+[4h25m] ⬇️  AvistoTelecom/dataset_designs_fpga...
+[4h25m] ❌ AvistoTelecom/dataset_designs_fpga: The directory at hf://datasets/AvistoTel[3h57m]   python: 4,000,000 files — 18.09 GB (total: 42.6 GB)
+[3h59m]   python: 4,200,000 files — 19.00 GB (total: 43.5 GB)
+[4h01m]   python: 4,400,000 files — 19.92 GB (total: 44.4 GB)
+[4h03m]   python: 4,600,000 files — 20.81 GB (total: 45.3 GB)
+[4h05m]   python: 4,800,000 files — 21.71 GB (total: 46.2 GB)
+[4h07m]   python: 5,000,000 files — 22.61 GB (total: 47.1 GB)
+[4h07m] ✅ python: 5,000,000 files — 22.61 GB
+[4h07m] ⬇️  The Stack — assembly...
+`trust_remote_code` is not supported anymore.
+Please check that the Hugging Face dataset 'bigcode/the-stack-dedup' isn't based on a loading script and remove `trust_remote_code`.
+If the dataset is based on a loading script, please ask the dataset[5h20m] ✅ reverse_eng_x86.jsonl: 461,279 rows — 52707.8 MB
+[5h20m] 
+📦 Phase 1 done. Total so far: 155.43 GB
+[5h20m] 
+💻 PHASE 2: The Stack (Code)
+[5h20m] ----------------------------------------
+[5h20m] ⏭️  Exists: the_stack_c.jsonl (24.52 GB)
+[5h20m] ⬇️  The Stack — c++ (this will take hours)...
+`trust_remote_code` is not supported anymore.
+Please check that the Hugging Face dataset 'bigcode/the-stack-dedup' isn't based on a loading script and remove `trust_remote_code`.
+If the dataset is based on a loading script, please ask the dataset author to remove it and convert it to a standard format like Parquet.
+[5h20m] ❌ The Stack c++: The directory at hf://datasets/bigcode/the-stack-dedup@17cad72c886a2858e08d4c349a00d6466f54df63/data
+[5h20m] ⏭️  Exists: the_stack_python.jsonl (22.61 GB)
+[5h20m] ⏭️  Exists: the_stack_assembly.jsonl (0.96 GB)
+[5h20m] ⏭️  Exists: the_stack_shell.jsonl (3.16 GB)
+[5h20m] ⏭️  Exists: the_stack_makefile.jsonl (1.15 GB)
+[5h20m] ⏭️  Exists: the_stack_rust.jsonl (7.30 GB)
+[5h20m] ⏭️  Exists: the_stack_go.jsonl (1.94 GB)
+[5h20m] ⬇️  The Stack — java (this will take hours)...
+`trust_remote_code` is not supported anymore.
+Please check that the Hugging Face dataset 'bigcode/the-stack-dedup' isn't based on a loading script and remove `trust_remote_code`.
+If the dataset is based on a loading script, please ask the dataset author to remove it and convert it to a standard format like Parquet.
+[5h22m]   java: 200,000 files — 0.79 GB (total: 217.9 GB)
+[5h24m]   java: 400,000 files — 1.59 GB (total: 218.6 GB)
+[5h27m]   java: 600,000 files — 2.38 GB (total: 219.4 GB)
+[5h29m]   java: 800,000 files — 3.17 GB (total: 220.2 GB)
+[5h31m]   java: 1,000,000 files — 3.96 GB (total: 221.0 GB)
+[5h32m]   java: 1,200,000 files — 4.76 GB (total: 221.8 GB)
+[5h34m]   java: 1,400,000 files — 5.55 GB (total: 222.6 GB)
+[5h35m]   java: 1,600,000 files — 6.35 GB (total: 223.4 GB)
+[5h37m]   java: 1,800,000 files — 7.14 GB (total: 224.2 GB)
+[5h39m]   java: 2,000,000 files — 7.94 GB (total: 225.0 GB)
+[5h40m]   java: 2,200,000 files — 8.73 GB (total: 225.8 GB)
+[5h41m]   java: 2,400,000 files — 9.53 GB (total: 226.6 GB)
+[5h43m]   java: 2,600,000 files — 10.32 GB (total: 227.4 GB)
+[5h45m]   java: 2,800,000 files — 11.11 GB (total: 228.2 GB)
+[5h48m]   java: 3,000,000 files — 11.90 GB (total: 229.0 GB)
+[5h51m]   java: 3,200,000 files — 12.69 GB (total: 229.8 GB)
+[5h53m]   java: 3,400,000 files — 13.49 GB (total: 230.6 GB)
+[5h56m]   java: 3,600,000 files — 14.28 GB (total: 231.3 GB)
+[5h58m]   java: 3,800,000 files — 15.08 GB (total: 232.1 GB)
+[5h59m]   java: 4,000,000 files — 15.88 GB (total: 232.9 GB)
+[6h01m]   java: 4,200,000 files — 16.67 GB (total: 233.7 GB)
+[6h02m]   java: 4,400,000 files — 17.46 GB (total: 234.5 GB)
+[6h04m] ❌ The Stack java: [Errno 28] No space left on device
+[6h04m] ⬇️  The Stack — javascript (this will take hours)...
+`trust_remote_code` is not supported anymore.
+Please check that the Hugging Face dataset 'bigcode/the-stack-dedup' isn't based on a loading script and remove `trust_remote_code`.
+If the dataset is based on a loading script, please ask the dataset author to remove it and convert it to a standard format like Parquet.
+[6h04m] ❌ The Stack javascript: [Errno 28] No space left on device: '/Users/rohithkapelli/.cache/huggingface/datasets/_Users_rohithk
+[6h04m] ⬇️  The Stack — verilog (this will take hours)...
+`trust_remote_code` is not supported anymore.
+Please check that the Hugging Face dataset 'bigcode/the-stack-dedup' isn't based on a loading script and remove `trust_remote_code`.
+If the dataset is based on a loading script, please ask the dataset author to remove it and convert it to a standard format like Parquet.
+[6h04m] ✅ verilog: 74 files — 0.00 GB
+[6h04m] ⬇️  The Stack — vhdl (this will take hours)...
+`trust_remote_code` is not supported anymore.
+Please check that the Hugging Face dataset 'bigcode/the-stack-dedup' isn't based on a loading script and remove `trust_remote_code`.
+If the dataset is based on a loading script, please ask the dataset author to remove it and convert it to a standard format like Parquet.
+[6h05m] ❌ The Stack vhdl: [Errno 28] No space left on device
+[6h05m] 
+💻 Phase 2 done. Total so far: 217.06 GB
+[6h05m] 
+⭐ PHASE 3: StarCoder Data
+[6h05m] ----------------------------------------
+[6h05m] ⬇️  StarCoder — python...
+`trust_remote_code` is not supported anymore.
+Please check that the Hugging Face dataset 'bigcode/starcoderdata' isn't based on a loading script and remove `trust_remote_code`.
+If the dataset is based on a loading script, please ask the dataset author to remove it and convert it to a standard format like Parquet.
+Could not cache non-existence of file. Will ignore error and continue. Error: [Errno 28] No space left on device: '/Users/rohithkapelli/.cache/huggingface/hub/datasets--bigcode--starcoderdata/.no_exist'
+Could not cache non-existence of file. Will ignore error and continue. Error: [Errno 28] No space left on device: '/Users/rohithkapelli/.cache/huggingface/hub/datasets--bigcode--starcoderdata/.no_exist'
+Could not cache non-existence of file. Will ignore error and continue. Error: [Errno 28] No space left on device: '/Users/rohithkapelli/.cache/huggingface/hub/datasets--bigcode--starcoderdata/.no_exist'
+[6h05m] ❌ StarCoder/python: [Errno 28] No space left on device: '/Users/rohithkapelli/.cache/huggingface/datasets/_Users_rohithk
+[6h05m] ⬇️  StarCoder — c...
+`trust_remote_code` is not supported anymore.
+Please check that the Hugging Face dataset 'bigcode/starcoderdata' isn't based on a loading script and remove `trust_remote_code`.
+If the dataset is based on a loading script, please ask the dataset author to remove it and convert it to a standard format like Parquet.
+Could not cache non-existence of file. Will ignore error and continue. Error: [Errno 28] No space left on device: '/Users/rohithkapelli/.cache/huggingface/hub/datasets--bigcode--starcoderdata/.no_exist'
+Could not cache non-existence of file. Will ignore error and continue. Error: [Errno 28] No space left on device: '/Users/rohithkapelli/.cache/huggingface/hub/datasets--bigcode--starcoderdata/.no_exist'
+Could not cache non[5h35m] ❌ The Stack ruby: [Errno 28] No space left on device: '/Users/rohithkapelli/.cache/huggingface/datasets/_Users_rohithk
+[5h35m] ⬇️  The Stack — php...
+`trust_remote_code` is not supported anymore.
+Please check that the Hugging Face dataset 'bigcode/the-stack-dedup' isn't based on a loading script and remove `trust_remote_code`.
+If the dataset is based on a loading script, please ask the dataset author to remove it and convert it to a standard format like Parquet.
+[5h35m] ❌ The Stack php: [Errno 28] No space left on device: '/Users/rohithkapelli/.cache/huggingface/datasets/_Users_rohithk
+[5h35m] ⬇️  The Stack — swift...
+--- Logging error ---
+[5h39m]   swift: 200,000 files — 0.66 GB (total: 78.6 GB)
+[5h40m] ❌ The Stack swift: [Errno 28] No space left on device
+[5h40m] ⬇️  The Stack — kotlin...
+`trust_remote_code` is not supported anymore.
+Please check that the Hugging Face dataset 'bigcode/the-stack-dedup' isn't based on a loading script and remove `trust_remote_code`.
+If the dataset is based on a loading script, please ask the dataset author to remove it and convert it to a standard format like Parquet.
+[5h45m]   kotlin: 200,000 files — 0.51 GB (total: 78.5 GB)
+[5h47m] ❌ The Stack kotlin: [Errno 28] No space left on device
+[5h47m] ⬇️  The Stack — scala...
+`trust_remote_code` is not supported anymore.
+Please check that the Hugging Face dataset 'bigcode/the-stack-dedup' isn't based on a loading script and remove `trust_remote_code`.
+If the dataset is based on a loading script, please ask the dataset author to remove it and convert it to a standard format like Parquet.
+[5h47m] ❌ The Stack scala: [Errno 28] No space left on device: '/Users/rohithkapelli/.cache/huggingface/datasets/_Users_rohithk
+[5h47m] ⬇️  The Stack — r...
+`trust_remote_code` is not supported anymore.
+Please check that the Hugging Face dataset 'bigcode/the-stack-dedup' isn't based on a loading script and remove `trust_remote_code`.
+If the dataset is based on a loading script, please ask the dataset author to remove it and convert it to a standard format like Parquet.
+[5h47m] ❌ The Stack r: [Errno 28] No space left on device: '/Users/rohithkapelli/.cache/huggingface/datasets/_Users_rohithk
+[5h47m] ⬇️  The Stack — lua...
+`trust_remote_code` is not supported anymore.
+Please check that the Hugging Face dataset 'bigcode/the-stack-dedup' isn't based on a loading script and remove `trust_remote_code`.
+If the dataset is based on a loading script, please ask the dataset author to remove it and convert it to a standard format like Parquet.
+[5h48m] ❌ The Stack lua: [Errno 28] No space left on device: '/Users/rohithkapelli/.cache/huggingface/datasets/_Users_rohithk
+[5h48m] ⬇️  The Stack — perl...
+`trust_remote_code` is not supported anymore.
+Please check that the Hugging Face dataset 'bigcode/the-stack-dedup' isn't based on a loading script and remove `trust_remote_code`.
+If the dataset is based on a loading script, please ask the dataset author to remove it and convert it to a standard format like Parquet.
+[5h48m] ❌ The Stack perl: [Errno 28] No space left on device: '/Users/rohithkapelli/.cache/huggingface/datasets/_Users_rohithk
+[5h48m] ⬇️  The Stack — haskell...
+`trust_remote_code` is not supported anymore.
+Please check that the Hugging Face dataset 'bigcode/the-stack-dedup' isn't based on a loading script and remove `trust_remote_code`.
+If the dataset is based on a loading script, please ask the dataset author to remove it and convert it to a standard format like Parquet.
+[5h48m] ❌ The Stack haskell: [Errno 28] No space left on device: '/Users/rohithkapelli/.cache/huggingface/datasets/_Users_rohithk
+[5h48m] ⬇️  The Stack — julia...
+`trust_remote_code` is not supported anymore.
+Please check that the Hugging Face dataset 'bigcode/the-stack-dedup' isn't based on a loading script and remove `trust_remote_code`.
+If the dataset is based on a loading script, please ask the dataset author to remove it and convert it to a standard format like Parquet.
+[5h48m] ❌ The Stack julia: [Errno 28] No space left on device: '/Users/rohithkapelli/.cache/huggingface/datasets/_Users_rohithk
+[5h48m] ⬇️  The Stack — dart...
+`trust_remote_code` is not supported anymore.
+Please check that the Hugging Face dataset 'bigcode/the-stack-dedup' isn't based on a loading script and remove `trust_remote_code`.
+If the dataset is based on a loading script, please ask the dataset author to remove it and convert it to a standard format like Parquet.
+[5h48m] ❌ The Stack dart: [Errno 28] No space left on device: '/Users/rohithkapelli/.cache/huggingface/datasets/_Users_rohithk
+[5h48m] ⬇️  The Stack — cmake...
+--- Logging error ---
+Traceback (most recent call last):
+Traceback (most recent call last):
+
